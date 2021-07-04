@@ -1,2 +1,2 @@
 # simpleGame
-simple react native game with react navigation library
+simple react native game created using react navigation library
